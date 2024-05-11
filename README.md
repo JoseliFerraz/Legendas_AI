@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto implementa um assistente que auxilia na inclusão de legendas criativas em postagem via Google Gemini, APIs. Fornecendo aos usuários sugestão de texto criativos para suas imagens.
+Este projeto implementa um assistente que auxilia na inclusão de legendas criativas de imagens em postagem via Google Gemini, APIs. Fornecendo aos usuários sugestão de texto criativos para suas imagens.
 
 ## Tecnologias Utilizadas
 
