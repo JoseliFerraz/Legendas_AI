@@ -19,15 +19,8 @@ Seus principais benefícios são :
 
 ## Como utilizar
 * No campo digite sua pesquisa, insira um texto como exemplo : Crie uma postagem para a imagem
-![image](https://github.com/JoseliFerraz/Legendas_IA/assets/24917106/45298b3c-e853-4982-8579-cf9dcd6b6e7f)
-
 * Clique no botão pergunte ao Gimini
   ![image](https://github.com/JoseliFerraz/Legendas_AI/assets/24917106/7c00c4f1-bc12-4c55-9f29-80854266fcc2)
-
-
-
-
-
 
 ## Aplicações e Extensões
 
