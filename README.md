@@ -2,13 +2,16 @@
 
 ## Descrição
 
-Este projeto implementa um assistente que auxilia na inclusão de legendas criativas de imagens em postagem via Google Gemini, APIs. Fornecendo aos usuários sugestão de texto criativos para suas imagens.
+Este projeto apresenta um assistente inteligente que facilita a criação de legendas criativas para imagens com Google Gemini, utilizando APIs. Através de sugestões de texto criativas e personalizadas, o assistente auxilia os usuários a otimizar suas postagens e aumentar o engajamento.
 
+Seus principais benefícios são :
+* legendas criativas e personalizadas: O assistente utiliza inteligência artificial para gerar sugestões de texto relevantes e cativantes para cada imagem
+* otimização de postagens: Legendas bem elaboradas aumentam a visibilidade e o engajamento das postagens no Google Gemini
+* Economia de tempo: O assistente automatiza a criação de legendas, liberando tempo para que os usuários se concentrem em outros aspectos da criação de conteúdo
+* 
 ## Tecnologias Utilizadas
 
 *   Google Gemini: Modelo de linguagem para geração de texto e resumo de informações.
-*   Google Scholar API: Para busca de artigos científicos.
-*   Semantic Scholar API: Para busca de artigos científicos. 
 *   R Shiny: Linguagem de programação 
 
 
