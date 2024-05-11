@@ -34,7 +34,7 @@ Seus principais benefícios são :
 GitHub https://github.com/JoseliFerraz
 
 
-## Adicionais
+## Adicionais e Referências
 Quer conhecer mais sobre o universo R, alguns links interessantes para sua jornada:
 
 https://rpubs.com
@@ -42,3 +42,5 @@ https://rpubs.com
 https://cran.r-project.org/
 
 https://shiny.posit.co/
+
+https://www.listendata.com/2023/12/google-gemini-r.html
